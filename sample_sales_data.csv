@@ -1,0 +1,609 @@
+OrderID,Date,Product,Region,Customer,Quantity,UnitPrice,Sales
+1516,2024-01-01,Standing Desk,West,Customer O,4,1142.44,4569.76
+1213,2024-01-02,Noise Cancelling Headphones,South,Customer O,1,1177.47,1178.26
+1060,2024-01-02,Noise Cancelling Headphones,North,Customer E,5,730.5,3657.38
+1171,2024-01-02,Desk Lamp,West,Customer O,5,1002.88,5024.45
+1577,2024-01-05,USB-C Hub,West,Customer E,2,439.92,882.19
+1111,2024-01-05,Noise Cancelling Headphones,North,Customer N,8,525.72,4219.8
+1336,2024-01-05,Noise Cancelling Headphones,West,Customer C,7,852.77,5993.31
+1555,2024-01-09,Noise Cancelling Headphones,East,Customer D,2,128.05,257.3
+1474,2024-01-10,Wireless Mouse,North,Customer N,4,700.28,2816.08
+1219,2024-01-10,Desk Lamp,West,Customer E,4,255.82,1029.43
+1574,2024-01-11,Desk Lamp,West,Customer E,4,948.25,3818.33
+1407,2024-01-14,Desk Lamp,North,Customer M,7,626.3,4416.3
+1550,2024-01-14,Noise Cancelling Headphones,West,Customer E,9,766.72,6955.78
+1045,2024-01-16,Standing Desk,East,Customer E,1,482.57,486.76
+1083,2024-01-18,Webcam HD,South,Customer H,4,157.86,637.34
+1117,2024-01-18,Webcam HD,South,Customer E,9,830.76,7551.73
+1390,2024-01-19,Wireless Mouse,East,Customer F,5,270.65,1367.71
+1272,2024-01-20,4K Monitor,North,Customer I,6,120.0,728.17
+1295,2024-01-21,4K Monitor,West,Customer N,4,347.99,1408.69
+1440,2024-01-22,USB-C Hub,West,Customer B,2,427.49,865.83
+1314,2024-01-24,Laptop Pro,South,Customer F,5,100.05,506.93
+1006,2024-01-25,Wireless Mouse,East,Customer B,3,766.41,2331.47
+1040,2024-01-25,Laptop Pro,North,Customer A,1,599.85,608.66
+1026,2024-01-26,Laptop Pro,West,Customer B,9,143.01,1306.86
+1254,2024-01-26,Laptop Pro,North,Customer E,5,264.69,1344.66
+1382,2024-01-27,Desk Lamp,North,Customer H,3,924.57,2820.02
+1597,2024-01-27,Wireless Mouse,West,Customer J,7,433.36,3086.19
+1456,2024-01-30,Wireless Mouse,North,Customer C,3,307.23,938.31
+1261,2024-02-01,USB-C Hub,South,Customer G,4,31.96,130.23
+1137,2024-02-02,USB-C Hub,East,Customer F,6,552.99,3382.19
+1100,2024-02-02,USB-C Hub,West,Customer A,9,835.6,7671.06
+1486,2024-02-04,Office Chair,East,Customer M,7,853.65,6099.25
+1103,2024-02-08,Mechanical Keyboard,East,Customer C,9,341.33,3137.61
+1250,2024-02-08,USB-C Hub,West,Customer J,3,369.78,1133.79
+1055,2024-02-11,Noise Cancelling Headphones,East,Customer A,3,16.85,51.7
+1411,2024-02-11,Office Chair,South,Customer B,8,464.23,3800.64
+1129,2024-02-12,Laptop Pro,East,Customer B,2,99.98,204.77
+1313,2024-02-12,USB-C Hub,South,Customer K,7,755.37,5418.23
+1430,2024-02-13,Webcam HD,North,Customer F,4,163.78,671.74
+1217,2024-02-13,Mechanical Keyboard,East,Customer F,6,459.77,2830.46
+1281,2024-02-13,Mechanical Keyboard,North,Customer G,7,1138.01,8178.85
+1255,2024-02-15,USB-C Hub,West,Customer O,4,1149.58,4724.22
+1463,2024-02-16,4K Monitor,East,Customer D,2,945.45,1943.93
+1507,2024-02-16,Noise Cancelling Headphones,East,Customer O,7,262.88,1893.0
+1307,2024-02-16,Standing Desk,South,Customer A,9,782.66,7250.91
+1081,2024-02-18,Wireless Mouse,South,Customer K,1,1050.33,1081.89
+1562,2024-02-18,Desk Lamp,East,Customer E,3,486.44,1504.15
+1099,2024-02-18,4K Monitor,West,Customer I,7,1017.04,7342.72
+1465,2024-02-19,USB-C Hub,West,Customer J,3,660.21,2044.12
+1403,2024-02-21,USB-C Hub,North,Customer D,2,355.58,734.43
+1277,2024-02-24,Office Chair,West,,4,93.22,385.33
+1340,2024-02-26,Webcam HD,West,Customer G,2,307.49,635.92
+1539,2024-02-26,4K Monitor,North,Customer N,5,774.13,4005.06
+1370,2024-02-26,Desk Lamp,North,Customer H,6,941.46,5848.68
+1104,2024-02-27,Laptop Pro,West,Customer L,2,377.98,783.22
+1270,2024-02-28,Standing Desk,West,Customer K,6,1017.42,6328.73
+1322,2024-03-01,USB-C Hub,West,Customer L,9,184.31,1720.82
+1178,2024-03-04,Mechanical Keyboard,West,Customer B,3,335.24,1044.0
+1076,2024-03-04,Noise Cancelling Headphones,West,Customer M,9,718.49,6716.86
+1334,2024-03-04,Mechanical Keyboard,North,Customer M,2,70.52,146.6
+1331,2024-03-05,Wireless Mouse,East,Customer C,1,391.34,407.02
+1226,2024-03-05,Wireless Mouse,West,Customer J,2,1177.18,2450.26
+1345,2024-03-10,Noise Cancelling Headphones,East,Customer C,5,335.42,1746.54
+1527,2024-03-10,4K Monitor,West,Customer M,3,240.28,751.17
+1351,2024-03-10,Wireless Mouse,West,Customer F,2,1093.28,2280.01
+1512,2024-03-10,Office Chair,West,Customer B,5,1026.74,5356.53
+1030,2024-03-11,Mechanical Keyboard,North,Customer O,1,622.51,649.95
+1436,2024-03-15,Webcam HD,West,Customer O,1,35.8,37.4
+1586,2024-03-16,Office Chair,East,Customer O,4,57.68,241.2
+1089,2024-03-16,Mechanical Keyboard,East,Customer O,5,515.11,2694.22
+1084,2024-03-18,Wireless Mouse,East,Customer N,9,1084.41,10215.9
+1580,2024-03-18,Laptop Pro,South,Customer B,8,242.04,2028.13
+1369,2024-03-23,Office Chair,North,Customer L,5,139.86,732.92
+1453,2024-03-23,Desk Lamp,West,Customer I,8,373.96,3137.52
+1499,2024-03-25,Noise Cancelling Headphones,West,Customer L,1,340.52,357.35
+1005,2024-03-27,Noise Cancelling Headphones,North,Customer H,1,614.93,645.73
+1475,2024-03-29,Standing Desk,South,Customer A,2,189.15,397.5
+1418,2024-03-31,4K Monitor,North,Customer D,5,644.16,3386.41
+1445,2024-04-01,Desk Lamp,East,Customer J,6,1169.42,7381.99
+1363,2024-04-01,Laptop Pro,East,Customer N,4,804.67,3388.48
+1531,2024-04-06,Laptop Pro,North,Customer I,7,1152.76,8500.4
+1057,2024-04-07,Mechanical Keyboard,West,Customer I,1,75.6,79.69
+1169,2024-04-07,Standing Desk,West,Customer K,9,656.92,6236.02
+1600,2024-04-09,Office Chair,West,Customer E,3,1072.68,3396.4
+1133,2024-04-13,Wireless Mouse,South,Customer D,2,732.85,1547.92
+1366,2024-04-13,Wireless Mouse,West,Customer G,6,1141.67,7238.84
+1012,2024-04-16,USB-C Hub,West,Customer F,4,180.93,765.28
+1558,2024-04-18,Wireless Mouse,South,Customer F,9,584.85,5569.45
+1412,2024-04-18,Office Chair,North,Customer K,6,414.75,2634.74
+1505,2024-04-19,Desk Lamp,East,Customer M,1,211.41,223.97
+1320,2024-04-20,Laptop Pro,West,Customer L,5,669.71,3549.8
+1050,2024-04-20,Laptop Pro,West,Customer B,9,735.37,7020.51
+1371,2024-04-23,Mechanical Keyboard,North,Customer D,4,778.32,3304.55
+1353,2024-04-25,Wireless Mouse,South,Customer J,7,1157.43,8605.17
+1123,2024-04-25,USB-C Hub,West,Customer E,7,424.86,3160.7
+1428,2024-04-25,Wireless Mouse,East,Customer K,5,632.74,3364.4
+1237,2024-04-29,Mechanical Keyboard,West,Customer E,7,1073.31,7994.82
+1590,2024-04-29,Laptop Pro,East,Customer J,3,1141.29,3645.65
+1426,2024-04-29,Wireless Mouse,South,Customer C,7,932.18,6952.29
+1280,2024-04-29,USB-C Hub,West,Customer C,6,972.76,6222.42
+1221,2024-04-29,USB-C Hub,North,,4,473.05,2018.56
+1287,2024-04-29,Mechanical Keyboard,South,Customer M,6,608.24,3895.58
+1454,2024-04-29,Desk Lamp,North,Customer O,2,92.85,198.35
+1108,2024-04-29,Laptop Pro,North,Customer C,5,989.57,5288.17
+1014,2024-04-30,USB-C Hub,North,Customer O,4,1166.27,4989.07
+1384,2024-04-30,Office Chair,West,Customer L,7,989.28,7410.52
+1337,2024-05-04,4K Monitor,West,Customer F,6,89.29,573.66
+1001,2024-05-04,Wireless Mouse,West,Customer B,5,787.89,4220.93
+1231,2024-05-05,Office Chair,South,Customer J,1,1147.92,1230.71
+1303,2024-05-05,Noise Cancelling Headphones,North,Customer N,8,773.96,6642.36
+1589,2024-05-06,USB-C Hub,East,Customer G,5,349.74,1877.15
+1343,2024-05-07,Wireless Mouse,South,Customer F,2,135.74,291.6
+1063,2024-05-07,Laptop Pro,East,Customer I,4,469.85,2019.96
+1004,2024-05-09,Standing Desk,South,Customer G,4,896.16,3855.13
+1464,2024-05-11,Wireless Mouse,South,Customer B,9,1189.72,11522.61
+1234,2024-05-15,Laptop Pro,South,Customer A,4,1026.94,4423.21
+1160,2024-05-16,Wireless Mouse,East,Customer F,7,1181.06,8907.83
+1170,2024-05-16,Mechanical Keyboard,West,Customer M,2,917.85,1979.12
+1168,2024-05-16,Laptop Pro,South,,1,671.15,724.04
+1414,2024-05-18,Noise Cancelling Headphones,South,Customer I,1,162.38,175.28
+1288,2024-05-20,USB-C Hub,West,Customer G,9,956.5,9298.33
+1525,2024-05-21,Standing Desk,North,Customer K,3,752.48,2439.84
+1348,2024-05-21,Desk Lamp,East,Customer N,6,949.88,6163.6
+1354,2024-05-22,Webcam HD,South,Customer D,6,120.81,784.4
+1578,2024-05-23,USB-C Hub,East,Customer N,8,793.11,6870.27
+1227,2024-05-25,Webcam HD,South,Customer H,4,497.99,2158.23
+1344,2024-05-25,Wireless Mouse,East,Customer A,1,441.88,479.06
+1556,2024-05-27,Noise Cancelling Headphones,North,Customer D,9,523.01,5106.29
+1007,2024-05-27,Noise Cancelling Headphones,South,Customer E,1,99.05,107.52
+1184,2024-05-28,Standing Desk,East,Customer I,6,541.19,3526.86
+1192,2024-05-29,Wireless Mouse,East,Customer M,5,750.48,4078.15
+1325,2024-05-31,4K Monitor,East,Customer K,5,603.58,3281.9
+1508,2024-06-01,Office Chair,South,Customer F,2,74.23,161.55
+1349,2024-06-02,Laptop Pro,West,Customer D,9,1071.87,10503.61
+1294,2024-06-03,Wireless Mouse,South,Customer L,5,290.38,1581.82
+1087,2024-06-04,4K Monitor,West,Customer I,7,183.43,1399.76
+1177,2024-06-06,4K Monitor,East,Customer N,8,420.8,3672.13
+1015,2024-06-07,Office Chair,North,Customer F,2,407.65,889.89
+1038,2024-06-07,Office Chair,West,Customer D,8,616.28,5384.58
+1223,2024-06-07,Desk Lamp,West,Customer J,1,598.41,653.96
+1498,2024-06-08,Laptop Pro,North,Customer L,4,105.34,460.75
+1469,2024-06-09,Noise Cancelling Headphones,East,Customer M,6,282.08,1851.84
+1526,2024-06-11,Desk Lamp,North,Customer B,3,1177.7,3868.13
+1247,2024-06-12,Mechanical Keyboard,North,Customer B,1,871.41,954.62
+1101,2024-06-12,Wireless Mouse,South,Customer A,9,524.47,5174.13
+1090,2024-06-17,4K Monitor,West,,4,364.62,1599.7
+1543,2024-06-22,Standing Desk,West,Customer L,9,929.38,9179.92
+1319,2024-06-22,Wireless Mouse,East,Customer A,9,967.69,9564.14
+1461,2024-06-23,Laptop Pro,West,Customer B,3,1149.98,3790.9
+1190,2024-06-23,Laptop Pro,South,Customer J,8,753.74,6629.89
+1210,2024-06-23,Mechanical Keyboard,West,Customer H,2,1133.69,2494.5
+1452,2024-06-23,Wireless Mouse,South,Customer N,5,486.64,2678.55
+1564,2024-06-24,Laptop Pro,North,Customer O,5,1192.01,6565.01
+1581,2024-06-25,Office Chair,South,Customer N,7,1103.11,8510.71
+1200,2024-06-26,Mechanical Keyboard,West,Customer J,4,1092.7,4820.28
+1201,2024-06-28,Desk Lamp,West,Customer H,3,870.74,2882.6
+1530,2024-06-29,Wireless Mouse,West,Customer O,4,1133.29,5005.4
+1326,2024-06-30,USB-C Hub,East,Customer E,4,351.86,1555.0
+1206,2024-07-01,Webcam HD,North,Customer G,4,162.91,720.39
+1460,2024-07-01,Office Chair,West,Customer C,5,83.55,462.11
+1225,2024-07-03,Mechanical Keyboard,East,Customer O,1,1040.71,1151.9
+1238,2024-07-04,Desk Lamp,North,Customer D,9,89.01,887.22
+1364,2024-07-05,Wireless Mouse,South,Customer N,4,1159.77,5140.94
+1300,2024-07-06,Office Chair,North,Customer J,2,395.97,878.14
+1082,2024-07-09,Desk Lamp,East,Customer A,4,872.91,3874.03
+1275,2024-07-10,Desk Lamp,South,Customer M,8,497.94,4422.44
+1394,2024-07-12,Laptop Pro,West,Customer G,8,176.87,1571.81
+1131,2024-07-12,Laptop Pro,East,Customer O,5,383.79,2132.95
+1218,2024-07-12,Laptop Pro,North,Customer F,5,353.65,1966.62
+1291,2024-07-13,Mechanical Keyboard,South,Customer K,4,101.39,451.33
+1023,2024-07-13,Noise Cancelling Headphones,North,Customer J,9,24.08,241.32
+1241,2024-07-13,Webcam HD,North,Customer C,4,619.86,2762.57
+1067,2024-07-15,Laptop Pro,South,Customer M,3,511.45,1710.58
+1470,2024-07-16,Noise Cancelling Headphones,North,Customer F,1,247.06,275.6
+1240,2024-07-16,Wireless Mouse,West,Customer H,9,546.26,5487.59
+1487,2024-07-18,Standing Desk,South,Customer E,7,88.71,693.54
+1041,2024-07-21,Office Chair,East,Customer C,7,847.18,6627.24
+1504,2024-07-21,USB-C Hub,East,Customer B,3,67.02,224.82
+1481,2024-07-22,USB-C Hub,West,Customer C,6,424.05,2846.73
+1402,2024-07-22,Laptop Pro,North,,8,1069.9,9582.3
+1482,2024-07-24,Office Chair,East,Customer C,9,1102.22,11112.36
+1127,2024-07-26,Wireless Mouse,North,Customer L,9,769.73,7764.89
+1273,2024-07-27,Laptop Pro,West,Customer N,9,592.84,5984.02
+1529,2024-07-28,Webcam HD,West,Customer H,9,1090.86,11017.5
+1510,2024-07-28,Wireless Mouse,South,Customer K,6,1177.71,7934.5
+1480,2024-07-29,Wireless Mouse,South,Customer D,7,322.99,2540.24
+1306,2024-08-01,Laptop Pro,South,Customer E,8,439.01,3948.3
+1441,2024-08-02,Laptop Pro,South,Customer M,5,455.51,2561.96
+1584,2024-08-02,Office Chair,North,Customer F,9,276.71,2803.04
+1560,2024-08-03,Wireless Mouse,North,Customer B,7,155.43,1225.33
+1385,2024-08-06,4K Monitor,East,Customer A,4,1022.66,4609.65
+1286,2024-08-07,Mechanical Keyboard,South,Customer F,9,106.08,1076.49
+1503,2024-08-08,Mechanical Keyboard,North,Customer D,2,527.89,1191.15
+1183,2024-08-11,Webcam HD,East,Customer J,8,179.95,1625.14
+1466,2024-08-13,Office Chair,South,Customer I,2,1155.88,2611.25
+1193,2024-08-14,Laptop Pro,West,Customer O,6,253.55,1719.4
+1078,2024-08-15,Office Chair,North,Customer G,2,768.77,1738.78
+1359,2024-08-17,Wireless Mouse,North,Customer O,3,849.07,2882.3
+1324,2024-08-18,Desk Lamp,North,Customer L,2,336.62,762.26
+1033,2024-08-18,Mechanical Keyboard,South,Customer L,5,485.46,2749.86
+1429,2024-08-18,Mechanical Keyboard,West,Customer O,2,1171.58,2656.1
+1145,2024-08-18,Wireless Mouse,North,Customer G,7,61.21,485.98
+1519,2024-08-18,Mechanical Keyboard,North,Customer C,8,1177.66,10692.13
+1521,2024-08-19,4K Monitor,West,Customer J,6,322.56,2197.72
+1289,2024-08-19,Office Chair,West,Customer I,4,852.9,3876.35
+1021,2024-08-20,Laptop Pro,West,Customer J,5,627.14,3564.96
+1425,2024-08-20,Noise Cancelling Headphones,West,Customer F,1,384.56,437.46
+1269,2024-08-20,Webcam HD,North,Customer G,4,922.85,4201.66
+1484,2024-08-23,Noise Cancelling Headphones,West,Customer F,1,571.94,651.38
+1248,2024-08-24,Wireless Mouse,South,Customer C,3,835.65,2856.83
+1415,2024-08-25,Noise Cancelling Headphones,North,Customer A,7,505.17,4032.08
+1338,2024-08-25,Laptop Pro,West,Customer F,1,1009.62,1151.88
+1188,2024-08-28,USB-C Hub,South,Customer O,5,1192.71,6807.81
+1191,2024-08-31,Desk Lamp,North,Customer G,7,689.71,5514.69
+1102,2024-08-31,Wireless Mouse,West,Customer A,8,812.47,7428.61
+1565,2024-08-31,Standing Desk,North,Customer N,5,68.22,390.07
+1068,2024-09-01,Laptop Pro,East,,5,905.15,5178.55
+1533,2024-09-03,Wireless Mouse,North,Customer C,7,1173.11,9401.72
+1182,2024-09-03,Laptop Pro,North,Customer D,4,702.85,3220.67
+1373,2024-09-04,Mechanical Keyboard,South,Customer N,8,441.66,4050.0
+1056,2024-09-06,Wireless Mouse,South,Customer I,8,769.14,7057.08
+1116,2024-09-08,USB-C Hub,South,Customer C,1,851.12,976.73
+1222,2024-09-09,Office Chair,West,,7,620.86,4990.3
+1532,2024-09-15,Mechanical Keyboard,East,Customer G,9,632.93,6544.64
+1009,2024-09-17,Mechanical Keyboard,West,Customer G,4,443.8,2040.74
+1471,2024-09-17,Office Chair,North,Customer A,5,181.85,1045.87
+1587,2024-09-20,Desk Lamp,East,Customer E,6,222.64,1537.44
+1434,2024-09-20,Noise Cancelling Headphones,South,Customer J,9,157.45,1631.85
+1496,2024-09-20,Wireless Mouse,North,Customer M,5,608.22,3504.12
+1077,2024-09-20,Laptop Pro,West,Customer I,9,27.01,280.26
+1112,2024-09-21,Desk Lamp,South,Customer J,5,392.86,2266.0
+1374,2024-09-21,USB-C Hub,East,Customer M,1,1148.81,1326.02
+1172,2024-09-23,Wireless Mouse,North,Customer L,9,536.92,5580.92
+1368,2024-09-23,4K Monitor,West,Customer A,8,368.19,3403.82
+1511,2024-09-23,Laptop Pro,South,Customer N,4,954.87,4416.31
+1274,2024-09-23,Standing Desk,East,Customer M,4,107.01,495.21
+1386,2024-09-27,Office Chair,West,Customer I,7,266.21,2157.15
+1468,2024-09-27,Desk Lamp,South,Customer I,7,448.33,3634.99
+1582,2024-09-28,Wireless Mouse,North,Customer K,8,135.64,1257.58
+1155,2024-09-29,4K Monitor,North,Customer C,8,1147.76,10647.53
+1146,2024-09-29,Laptop Pro,West,Customer K,9,51.68,539.66
+1174,2024-09-29,Desk Lamp,East,,3,322.31,1122.54
+1262,2024-10-01,Noise Cancelling Headphones,East,Customer E,7,889.38,7231.74
+1535,2024-10-02,Wireless Mouse,North,Customer C,3,206.58,720.31
+1233,2024-10-02,Desk Lamp,North,Customer H,6,144.48,1008.13
+1534,2024-10-04,Wireless Mouse,East,Customer I,9,912.41,9555.17
+1478,2024-10-06,Webcam HD,North,Customer N,8,474.98,4424.05
+1256,2024-10-06,4K Monitor,North,Customer A,1,25.5,29.71
+1126,2024-10-07,Noise Cancelling Headphones,West,Customer I,6,780.3,5457.15
+1098,2024-10-07,Laptop Pro,West,Customer M,2,787.97,1837.98
+1144,2024-10-07,Desk Lamp,South,Customer E,7,470.28,3841.54
+1540,2024-10-09,Mechanical Keyboard,West,,4,804.92,3759.34
+1220,2024-10-09,Noise Cancelling Headphones,West,Customer F,3,917.73,3216.5
+1444,2024-10-09,Mechanical Keyboard,East,Customer H,4,781.05,3652.03
+1159,2024-10-09,Noise Cancelling Headphones,South,Customer M,5,994.65,5816.79
+1156,2024-10-10,4K Monitor,East,Customer O,3,387.05,1358.88
+1472,2024-10-12,Wireless Mouse,South,Customer D,3,752.56,2643.63
+1357,2024-10-14,Mechanical Keyboard,East,Customer M,6,474.36,3334.62
+1583,2024-10-17,Laptop Pro,South,Customer E,6,614.56,4322.64
+1121,2024-10-19,Mechanical Keyboard,North,Customer F,8,183.97,1726.31
+1046,2024-10-20,4K Monitor,East,Customer I,7,514.87,4229.84
+1575,2024-10-20,Wireless Mouse,North,Customer M,3,312.44,1100.69
+1132,2024-10-21,Wireless Mouse,North,Customer L,4,817.39,3841.6
+1036,2024-10-23,Mechanical Keyboard,East,Customer I,8,149.9,1409.81
+1305,2024-10-25,Noise Cancelling Headphones,West,Customer H,5,730.14,4294.3
+1180,2024-10-26,Desk Lamp,East,Customer A,4,675.88,3181.94
+1362,2024-10-26,Laptop Pro,South,Customer J,5,859.96,5063.57
+1576,2024-10-31,Wireless Mouse,South,Customer F,1,683.43,805.28
+1500,2024-11-01,Mechanical Keyboard,West,Customer M,7,971.25,8015.49
+1073,2024-11-01,Noise Cancelling Headphones,East,Customer F,1,807.26,952.27
+1477,2024-11-03,Laptop Pro,West,Customer F,3,768.61,2721.57
+1290,2024-11-03,Mechanical Keyboard,North,Customer A,8,74.52,704.05
+1027,2024-11-03,Laptop Pro,North,Customer A,9,416.55,4429.89
+1569,2024-11-03,Laptop Pro,North,Customer K,3,908.8,3223.43
+1409,2024-11-03,Laptop Pro,West,Customer I,3,1005.04,3566.8
+1380,2024-11-04,Wireless Mouse,North,Customer E,1,453.23,536.46
+1232,2024-11-04,Mechanical Keyboard,East,Customer H,1,252.56,299.11
+1215,2024-11-04,Standing Desk,West,Customer M,6,1038.3,7382.16
+1572,2024-11-06,Noise Cancelling Headphones,West,Customer N,9,698.89,7457.7
+1292,2024-11-06,Webcam HD,West,Customer G,2,492.4,1168.28
+1392,2024-11-09,Noise Cancelling Headphones,North,Customer B,8,735.19,6981.24
+1150,2024-11-10,USB-C Hub,North,Customer L,1,911.11,1082.08
+1548,2024-11-10,Standing Desk,East,Customer H,5,1112.54,6610.23
+1209,2024-11-15,Office Chair,North,Customer L,2,1054.35,2507.21
+1333,2024-11-16,Standing Desk,West,Customer L,8,620.69,5907.23
+1446,2024-11-17,Laptop Pro,South,Customer N,2,1018.77,2425.32
+1164,2024-11-21,USB-C Hub,East,Customer M,4,471.83,2247.77
+1399,2024-11-21,Wireless Mouse,South,Customer D,8,483.23,4606.74
+1341,2024-11-22,Noise Cancelling Headphones,South,Customer L,6,892.97,6388.24
+1069,2024-11-23,4K Monitor,North,Customer N,5,99.14,591.36
+1003,2024-11-25,Laptop Pro,West,Customer L,5,726.77,4337.57
+1070,2024-11-25,Wireless Mouse,North,Customer D,6,110.01,788.33
+1358,2024-11-26,Noise Cancelling Headphones,East,Customer O,3,764.76,2741.65
+1435,2024-11-27,Standing Desk,West,,3,329.72,1182.7
+1042,2024-11-28,4K Monitor,North,Customer O,8,1191.49,11403.3
+1263,2024-12-02,Office Chair,East,Customer A,7,1003.46,8407.96
+1022,2024-12-02,Webcam HD,West,Customer K,1,21.52,25.77
+1244,2024-12-02,Noise Cancelling Headphones,South,Customer G,1,37.65,45.12
+1422,2024-12-02,Laptop Pro,South,Customer D,3,1156.75,4160.82
+1433,2024-12-04,4K Monitor,North,Customer D,5,971.48,5827.26
+1187,2024-12-06,Webcam HD,West,Customer G,6,491.11,3536.98
+1282,2024-12-06,Laptop Pro,South,Customer E,3,100.7,362.82
+1585,2024-12-08,Standing Desk,North,Customer F,3,61.13,220.37
+1149,2024-12-09,USB-C Hub,North,Customer E,8,42.67,410.43
+1260,2024-12-09,Standing Desk,South,Customer A,6,364.12,2628.23
+1264,2024-12-10,Webcam HD,South,Customer F,2,892.46,2148.46
+1405,2024-12-12,USB-C Hub,East,Customer G,6,83.84,605.83
+1367,2024-12-12,USB-C Hub,East,Customer L,8,847.51,8170.05
+1299,2024-12-15,4K Monitor,North,Customer F,6,1088.74,7876.01
+1095,2024-12-16,Office Chair,North,Customer E,2,676.99,1633.37
+1379,2024-12-16,4K Monitor,West,,8,451.92,4363.78
+1186,2024-12-23,Laptop Pro,South,Customer K,5,594.34,3588.86
+1074,2024-12-25,Laptop Pro,South,Customer B,8,819.22,7919.22
+1208,2024-12-27,Wireless Mouse,North,Customer A,8,341.78,3305.74
+1497,2024-12-31,Laptop Pro,East,Customer L,4,820.35,3969.45
+1285,2025-01-01,Laptop Pro,West,Customer J,6,369.99,2686.91
+1408,2025-01-01,Wireless Mouse,East,Customer B,3,332.1,1206.54
+1214,2025-01-04,Laptop Pro,South,Customer K,3,587.84,2136.83
+1541,2025-01-05,Noise Cancelling Headphones,West,Customer C,8,207.8,2015.42
+1330,2025-01-05,Laptop Pro,North,Customer B,7,902.14,7660.21
+1016,2025-01-10,USB-C Hub,North,Customer O,8,586.22,5691.91
+1327,2025-01-16,4K Monitor,South,Customer H,9,173.59,1897.2
+1025,2025-01-16,Wireless Mouse,East,Customer B,8,58.51,568.73
+1559,2025-01-18,Laptop Pro,North,Customer G,8,799.98,7780.24
+1044,2025-01-18,4K Monitor,North,Customer E,5,340.56,2071.22
+1154,2025-01-21,Mechanical Keyboard,North,Customer K,4,152.62,742.97
+1315,2025-01-24,Webcam HD,South,Customer I,8,823.9,8026.08
+1293,2025-01-27,4K Monitor,West,Customer H,9,364.92,4001.45
+1298,2025-01-27,4K Monitor,North,Customer J,7,495.05,4224.37
+1388,2025-01-29,4K Monitor,South,Customer E,2,574.65,1401.8
+1194,2025-01-31,Laptop Pro,North,Customer G,4,483.24,2358.92
+1495,2025-02-01,USB-C Hub,North,Customer D,5,301.64,1841.57
+1551,2025-02-04,Laptop Pro,South,Customer G,9,278.16,3058.46
+1140,2025-02-06,Laptop Pro,East,Customer L,8,590.42,5773.7
+1010,2025-02-06,Laptop Pro,West,Customer H,7,574.9,4921.87
+1391,2025-02-12,USB-C Hub,South,Customer F,3,818.21,3003.75
+1239,2025-02-14,Laptop Pro,South,Customer B,5,1061.91,6500.87
+1075,2025-02-14,Desk Lamp,West,Customer B,8,443.88,4350.17
+1204,2025-02-14,4K Monitor,West,Customer D,7,169.82,1457.05
+1489,2025-02-15,4K Monitor,East,Customer H,4,24.29,119.15
+1049,2025-02-17,Wireless Mouse,South,Customer L,8,861.13,8453.16
+1139,2025-02-17,Standing Desk,South,Customer B,1,181.56,222.9
+1377,2025-02-18,4K Monitor,West,Customer C,8,557.37,5477.3
+1329,2025-02-19,USB-C Hub,South,Customer H,6,79.38,585.37
+1492,2025-02-19,Mechanical Keyboard,West,Customer D,5,174.12,1070.59
+1438,2025-02-19,Laptop Pro,East,Customer J,9,931.17,10311.27
+1086,2025-02-22,Mechanical Keyboard,North,Customer G,9,647.75,7176.72
+1017,2025-02-22,USB-C Hub,South,Customer B,3,247.38,914.11
+1211,2025-02-24,USB-C Hub,East,Customer M,3,191.32,707.34
+1047,2025-02-24,Mechanical Keyboard,East,Customer J,5,502.06,3095.34
+1346,2025-02-24,Laptop Pro,East,Customer B,5,1013.61,6252.57
+1198,2025-02-24,Mechanical Keyboard,South,Customer J,7,284.88,2461.57
+1518,2025-02-26,Standing Desk,North,Customer E,9,858.39,9541.46
+1142,2025-02-26,Standing Desk,South,Customer K,6,613.96,4552.12
+1557,2025-02-26,4K Monitor,West,Customer L,6,49.57,367.73
+1196,2025-02-28,Noise Cancelling Headphones,West,Customer H,4,578.52,2862.66
+1283,2025-02-28,Mechanical Keyboard,West,Customer B,7,1146.81,9936.08
+1339,2025-03-01,Laptop Pro,South,,1,19.53,24.19
+1321,2025-03-06,4K Monitor,North,Customer B,9,631.4,7041.11
+1381,2025-03-09,Standing Desk,East,Customer D,4,77.04,382.04
+1552,2025-03-11,Standing Desk,South,Customer L,4,396.18,1965.69
+1151,2025-03-12,Wireless Mouse,East,Customer O,5,558.35,3464.75
+1515,2025-03-14,USB-C Hub,South,Customer C,3,248.36,925.19
+1257,2025-03-19,Noise Cancelling Headphones,South,Customer C,5,1197.42,7438.4
+1491,2025-03-19,Office Chair,North,Customer B,6,545.49,4068.5
+1051,2025-03-22,Laptop Pro,East,Customer B,7,381.61,3322.36
+1451,2025-03-22,4K Monitor,North,Customer D,9,557.72,6246.28
+1523,2025-03-24,Noise Cancelling Headphones,East,Customer B,6,718.37,5366.55
+1431,2025-03-24,Wireless Mouse,West,Customer L,6,35.08,262.2
+1342,2025-03-25,Laptop Pro,West,Customer B,6,389.78,2914.96
+1278,2025-03-29,Office Chair,North,Customer I,5,428.35,2670.93
+1013,2025-03-29,Desk Lamp,East,Customer E,2,343.02,856.0
+1554,2025-03-29,Standing Desk,North,Customer M,8,878.7,8775.85
+1546,2025-03-29,4K Monitor,South,Customer D,4,25.71,128.46
+1579,2025-03-30,USB-C Hub,East,Customer G,1,299.87,374.76
+1157,2025-03-30,Wireless Mouse,West,Customer D,2,1067.76,2670.29
+1253,2025-03-31,Standing Desk,North,Customer B,5,345.33,2160.19
+1420,2025-04-02,4K Monitor,West,Customer G,6,26.76,200.98
+1148,2025-04-03,Office Chair,East,Customer O,8,204.63,2050.26
+1096,2025-04-05,4K Monitor,South,Customer C,1,421.65,528.36
+1396,2025-04-06,Standing Desk,East,,4,890.24,4464.58
+1079,2025-04-06,Office Chair,East,Customer C,2,1097.25,2752.83
+1448,2025-04-11,Webcam HD,North,Customer F,3,1079.79,4065.71
+1175,2025-04-12,USB-C Hub,West,Customer J,7,245.63,2159.17
+1592,2025-04-12,Mechanical Keyboard,East,Customer G,4,532.39,2675.64
+1147,2025-04-12,Noise Cancelling Headphones,North,Customer G,5,474.76,2984.09
+1302,2025-04-14,USB-C Hub,South,Customer M,4,282.84,1422.98
+1020,2025-04-14,Laptop Pro,West,Customer G,6,260.29,1965.34
+1166,2025-04-14,Mechanical Keyboard,East,Customer E,6,656.57,4960.12
+1517,2025-04-15,Desk Lamp,South,Customer C,1,1193.86,1503.98
+1167,2025-04-15,Laptop Pro,North,Customer D,6,197.66,1494.82
+1043,2025-04-16,Wireless Mouse,South,Customer N,3,170.81,646.23
+1059,2025-04-16,4K Monitor,South,Customer I,4,85.54,431.73
+1061,2025-04-19,Laptop Pro,North,Customer M,8,828.61,8368.55
+1570,2025-04-19,Mechanical Keyboard,East,Customer L,1,1103.34,1393.63
+1093,2025-04-21,Wireless Mouse,South,Customer G,6,66.83,506.75
+1246,2025-04-21,Wireless Mouse,North,Customer I,6,829.95,6296.54
+1483,2025-04-22,Laptop Pro,North,Customer I,4,359.25,1817.96
+1115,2025-04-22,USB-C Hub,East,Customer I,7,727.27,6443.93
+1304,2025-04-22,Laptop Pro,North,Customer D,7,1175.09,10417.3
+1350,2025-04-22,Noise Cancelling Headphones,West,Customer H,2,529.07,1340.78
+1423,2025-04-23,Webcam HD,West,Customer B,9,630.05,7188.88
+1442,2025-04-26,4K Monitor,East,Customer C,3,16.6,63.17
+1455,2025-04-26,Noise Cancelling Headphones,East,Customer E,6,285.46,2173.69
+1439,2025-04-27,Wireless Mouse,South,Customer F,4,628.78,3193.66
+1406,2025-04-27,Noise Cancelling Headphones,East,Customer B,2,147.14,373.87
+1243,2025-04-28,Noise Cancelling Headphones,East,Customer L,3,1112.76,4243.35
+1467,2025-04-28,Webcam HD,South,Customer B,9,104.59,1197.15
+1114,2025-04-28,Laptop Pro,West,Customer N,7,454.84,4051.34
+1317,2025-05-01,Office Chair,South,Customer D,3,861.03,3288.59
+1249,2025-05-02,Office Chair,West,Customer D,5,174.31,1110.17
+1185,2025-05-02,Wireless Mouse,North,Customer N,3,757.09,2894.64
+1065,2025-05-03,Wireless Mouse,West,Customer D,7,452.33,4037.44
+1538,2025-05-03,Standing Desk,North,Customer L,6,308.1,2358.43
+1197,2025-05-04,USB-C Hub,West,Customer A,1,658.48,840.52
+1176,2025-05-04,4K Monitor,North,Customer D,6,83.31,638.39
+1224,2025-05-06,Laptop Pro,South,Customer I,7,699.08,6252.97
+1593,2025-05-07,Wireless Mouse,West,Customer E,9,702.41,8082.05
+1125,2025-05-09,Standing Desk,East,Customer J,6,45.16,346.59
+1106,2025-05-09,Wireless Mouse,West,Customer J,4,544.01,2784.9
+1310,2025-05-11,Laptop Pro,South,Customer I,2,611.15,1565.12
+1553,2025-05-11,Wireless Mouse,South,Customer D,4,1019.93,5226.67
+1524,2025-05-12,Office Chair,West,Customer N,9,101.6,1172.08
+1153,2025-05-14,Wireless Mouse,East,Customer D,1,1081.6,1387.12
+1419,2025-05-17,Mechanical Keyboard,West,Customer N,4,720.23,3696.62
+1019,2025-05-18,4K Monitor,East,Customer G,4,347.61,1785.06
+1207,2025-05-19,4K Monitor,North,Customer F,8,956.14,9825.1
+1501,2025-05-19,Webcam HD,West,Customer O,9,559.7,6473.65
+1544,2025-05-19,Desk Lamp,East,Customer A,1,606.19,779.44
+1179,2025-05-20,Office Chair,South,Customer B,5,1160.2,7462.86
+1401,2025-05-21,Office Chair,East,Customer M,9,251.07,2908.47
+1413,2025-05-23,USB-C Hub,East,Customer I,1,37.9,48.81
+1094,2025-05-24,Webcam HD,North,Customer O,5,160.76,1035.68
+1421,2025-05-25,Laptop Pro,West,Customer J,6,564.95,4369.83
+1229,2025-05-25,USB-C Hub,North,Customer I,9,920.97,10690.94
+1230,2025-05-28,Desk Lamp,South,Customer M,6,694.63,5378.45
+1488,2025-05-28,Standing Desk,North,Customer B,3,189.55,734.21
+1398,2025-06-03,Laptop Pro,West,Customer F,5,779.13,5032.48
+1053,2025-06-04,Laptop Pro,South,Customer O,3,1146.75,4446.48
+1376,2025-06-09,Noise Cancelling Headphones,South,Customer L,9,527.78,6142.51
+1365,2025-06-12,Laptop Pro,South,Customer I,4,916.83,4744.86
+1002,2025-06-14,4K Monitor,North,Customer J,2,1141.38,2955.01
+1596,2025-06-15,Laptop Pro,East,Customer E,7,349.76,3170.96
+1259,2025-06-16,Office Chair,West,Customer B,4,996.74,5166.41
+1181,2025-06-17,Standing Desk,North,Customer M,4,426.52,2211.92
+1537,2025-06-20,Laptop Pro,North,Customer I,8,866.22,8989.02
+1162,2025-06-21,Laptop Pro,West,Customer B,9,1153.95,13478.68
+1387,2025-06-21,Desk Lamp,South,Customer N,9,793.96,9278.6
+1332,2025-06-23,Office Chair,East,Customer F,1,15.16,19.7
+1443,2025-06-25,USB-C Hub,South,Customer N,9,370.26,4331.49
+1502,2025-06-25,Laptop Pro,West,Customer N,3,662.69,2585.49
+1360,2025-06-27,Wireless Mouse,West,Customer I,1,20.17,26.24
+1573,2025-07-01,Laptop Pro,South,Customer G,9,438.19,5134.07
+1509,2025-07-02,Noise Cancelling Headphones,East,Customer M,8,1014.72,10573.42
+1266,2025-07-04,USB-C Hub,East,Customer O,1,907.81,1183.03
+1372,2025-07-04,Wireless Mouse,East,Customer C,9,72.1,846.06
+1216,2025-07-04,Noise Cancelling Headphones,East,Customer G,8,712.65,7437.26
+1052,2025-07-07,Laptop Pro,North,Customer F,1,991.19,1293.68
+1447,2025-07-07,Laptop Pro,South,Customer N,6,42.96,336.59
+1514,2025-07-08,Office Chair,North,Customer G,3,1153.34,4520.55
+1152,2025-07-08,Desk Lamp,East,Customer I,3,357.76,1402.97
+1071,2025-07-08,Mechanical Keyboard,North,Customer F,8,435.4,4555.49
+1424,2025-07-09,Laptop Pro,West,Customer G,7,817.89,7491.54
+1599,2025-07-10,Laptop Pro,North,Customer M,6,1136.55,8927.7
+1011,2025-07-12,Noise Cancelling Headphones,South,Customer M,5,69.09,452.49
+1024,2025-07-13,Webcam HD,East,Customer N,1,274.6,359.87
+1251,2025-07-13,4K Monitor,East,Customer A,3,440.08,1731.08
+1119,2025-07-14,Laptop Pro,West,Customer H,5,212.73,1395.35
+1588,2025-07-14,Noise Cancelling Headphones,West,Customer J,8,1042.12,10942.43
+1566,2025-07-14,Office Chair,East,Customer M,5,916.79,6019.59
+1072,2025-07-15,4K Monitor,West,Customer C,6,1130.94,8915.36
+1110,2025-07-15,USB-C Hub,South,Customer N,1,1101.21,1447.57
+1195,2025-07-18,Desk Lamp,North,Customer O,9,61.76,731.04
+1008,2025-07-21,Noise Cancelling Headphones,East,Customer A,5,316.45,2082.02
+1457,2025-07-24,USB-C Hub,East,Customer B,5,588.63,3874.74
+1252,2025-07-25,4K Monitor,West,Customer G,3,968.26,3826.16
+1549,2025-07-26,4K Monitor,North,Customer A,3,285.98,1130.65
+1318,2025-07-26,Wireless Mouse,South,Customer M,3,989.7,3914.85
+1088,2025-07-28,Noise Cancelling Headphones,South,Customer E,2,28.87,76.17
+1158,2025-07-28,Laptop Pro,West,Customer E,9,729.49,8665.46
+1205,2025-07-29,Mechanical Keyboard,South,Customer F,4,951.75,5027.27
+1143,2025-07-29,Office Chair,South,Customer M,3,1157.36,4587.32
+1236,2025-07-29,Laptop Pro,West,Customer K,6,1018.66,8079.22
+1375,2025-07-30,Wireless Mouse,East,Customer G,2,607.98,1608.15
+1347,2025-07-30,Laptop Pro,East,Customer G,2,386.32,1022.36
+1395,2025-07-31,Desk Lamp,North,Customer A,9,787.19,9379.26
+1029,2025-07-31,USB-C Hub,East,Customer H,2,692.88,1835.5
+1513,2025-08-01,Laptop Pro,South,Customer L,8,301.74,3198.95
+1595,2025-08-01,4K Monitor,West,Customer M,4,914.15,4848.2
+1032,2025-08-01,Office Chair,North,Customer A,8,1119.13,11876.6
+1308,2025-08-03,Laptop Pro,East,Customer D,5,160.66,1066.15
+1064,2025-08-03,Laptop Pro,South,Customer K,3,555.64,2213.47
+1276,2025-08-03,Laptop Pro,East,Customer I,9,497.42,5947.62
+1265,2025-08-07,Laptop Pro,West,Customer E,3,184.28,734.84
+1458,2025-08-11,Mechanical Keyboard,South,Customer K,8,900.72,9582.82
+1124,2025-08-12,Mechanical Keyboard,East,Customer M,7,198.03,1844.42
+1039,2025-08-12,Standing Desk,East,Customer A,1,1050.95,1399.04
+1356,2025-08-16,Desk Lamp,East,Customer M,8,600.17,6394.87
+1202,2025-08-17,4K Monitor,East,Customer D,8,647.06,6897.94
+1301,2025-08-18,Mechanical Keyboard,North,Customer G,8,579.58,6181.67
+1097,2025-08-18,USB-C Hub,West,Customer L,8,879.07,9380.66
+1476,2025-08-21,Standing Desk,South,Customer N,2,976.18,2605.54
+1018,2025-08-21,Office Chair,West,Customer A,9,738.77,8877.82
+1080,2025-08-22,Laptop Pro,West,Customer M,3,740.9,2969.29
+1417,2025-08-22,Office Chair,West,Customer C,5,494.08,3301.84
+1490,2025-08-26,Office Chair,North,Customer E,9,762.64,9178.42
+1284,2025-08-27,Desk Lamp,East,Customer C,8,634.25,6788.49
+1393,2025-08-27,Wireless Mouse,West,Customer H,8,364.93,3907.86
+1161,2025-08-27,USB-C Hub,South,Customer C,2,356.76,955.57
+1410,2025-08-29,Laptop Pro,North,Customer E,2,32.41,86.85
+1091,2025-08-29,Webcam HD,West,Customer L,8,590.91,6337.24
+1493,2025-08-31,Desk Lamp,South,Customer I,3,1150.15,4627.87
+1416,2025-09-01,Laptop Pro,West,Customer K,8,599.04,6430.83
+1563,2025-09-02,Mechanical Keyboard,South,Customer D,2,1104.64,2966.12
+1113,2025-09-03,4K Monitor,South,Customer B,3,704.91,2840.59
+1105,2025-09-03,Mechanical Keyboard,North,Customer F,6,949.95,7659.86
+1245,2025-09-05,USB-C Hub,South,Customer J,6,580.06,4679.6
+1037,2025-09-06,Noise Cancelling Headphones,South,Customer N,6,424.09,3423.02
+1520,2025-09-06,Desk Lamp,North,Customer B,8,689.9,7428.35
+1312,2025-09-07,4K Monitor,South,Customer A,3,709.25,2865.18
+1450,2025-09-07,Noise Cancelling Headphones,East,Customer G,2,939.75,2532.15
+1141,2025-09-07,Mechanical Keyboard,South,Customer K,3,47.63,192.6
+1522,2025-09-09,4K Monitor,West,Customer I,7,532.84,5030.05
+1054,2025-09-11,Laptop Pro,East,Customer I,8,988.12,10665.76
+1165,2025-09-12,Laptop Pro,East,Customer D,4,418.36,2259.0
+1235,2025-09-12,Office Chair,West,Customer J,4,535.39,2892.36
+1189,2025-09-13,Office Chair,East,Customer L,6,1058.17,8579.13
+1591,2025-09-13,4K Monitor,South,Customer H,6,704.22,5712.29
+1494,2025-09-13,Laptop Pro,East,Customer O,9,642.65,7823.16
+1031,2025-09-13,4K Monitor,North,Customer H,2,362.78,981.87
+1199,2025-09-13,Office Chair,East,Customer M,7,1157.37,10968.93
+1271,2025-09-14,Office Chair,South,Customer J,9,742.12,9047.42
+1316,2025-09-14,Wireless Mouse,East,Customer G,1,301.69,408.87
+1545,2025-09-15,Laptop Pro,East,Customer D,8,29.34,318.26
+1352,2025-09-15,Laptop Pro,South,Customer L,3,462.12,1880.73
+1389,2025-09-19,Laptop Pro,South,Customer D,3,1057.99,4307.91
+1267,2025-09-19,Noise Cancelling Headphones,North,Customer C,8,926.17,10061.39
+1485,2025-09-20,Wireless Mouse,South,Customer I,8,1069.82,11627.64
+1594,2025-09-22,Webcam HD,South,Customer A,3,627.29,2557.96
+1279,2025-09-22,4K Monitor,North,Customer B,8,146.53,1594.17
+1479,2025-09-23,Office Chair,East,Customer M,8,813.84,8858.49
+1085,2025-09-25,Wireless Mouse,South,Customer F,9,93.74,1148.45
+1383,2025-09-26,Laptop Pro,East,Customer H,6,508.56,4155.76
+1311,2025-09-30,Standing Desk,East,Customer H,5,547.48,3729.99
+1432,2025-09-30,USB-C Hub,South,Customer E,7,927.64,8852.38
+1130,2025-09-30,Wireless Mouse,North,Customer E,2,500.41,1365.06
+1542,2025-10-01,Wireless Mouse,West,Customer G,1,684.63,934.25
+1506,2025-10-07,Mechanical Keyboard,East,Customer L,6,542.97,4447.82
+1536,2025-10-09,Laptop Pro,West,Customer E,4,580.13,3169.7
+1309,2025-10-16,4K Monitor,South,Customer C,5,1068.06,7298.11
+1561,2025-10-18,Wireless Mouse,East,Customer O,1,357.33,488.57
+1128,2025-10-20,Laptop Pro,West,,6,418.62,3435.9
+1397,2025-10-24,USB-C Hub,East,Customer L,5,389.02,2662.09
+1568,2025-10-27,Standing Desk,North,,5,480.06,3286.69
+1268,2025-10-27,4K Monitor,North,Customer L,9,795.37,9806.55
+1109,2025-10-27,Office Chair,South,Customer H,3,1031.21,4240.18
+1427,2025-10-28,Mechanical Keyboard,North,Customer F,5,930.91,6382.72
+1203,2025-11-01,Mechanical Keyboard,West,Customer D,5,1045.91,7174.7
+1378,2025-11-01,USB-C Hub,North,Customer H,3,262.53,1081.06
+1118,2025-11-04,4K Monitor,South,Customer J,2,458.85,1260.27
+1138,2025-11-07,4K Monitor,East,Customer N,5,830.6,5706.04
+1528,2025-11-07,4K Monitor,South,Customer O,3,954.23,3935.12
+1404,2025-11-07,Wireless Mouse,South,Customer A,4,450.83,2480.09
+1066,2025-11-07,Laptop Pro,North,Customer B,3,158.41,653.9
+1135,2025-11-08,Office Chair,East,Customer K,7,273.2,2632.66
+1567,2025-11-09,Office Chair,North,Customer C,4,455.49,2509.38
+1355,2025-11-12,Office Chair,South,Customer E,8,829.12,9139.98
+1028,2025-11-13,Mechanical Keyboard,North,Customer J,1,966.06,1331.84
+1058,2025-11-14,Office Chair,South,Customer M,5,320.26,2208.67
+1258,2025-11-15,Laptop Pro,South,Customer L,5,817.03,5637.37
+1034,2025-11-15,4K Monitor,West,Customer K,7,118.2,1142.34
+1449,2025-11-17,4K Monitor,West,Customer C,9,943.09,11724.23
+1122,2025-11-17,Noise Cancelling Headphones,West,Customer L,8,1069.76,11827.01
+1163,2025-11-17,4K Monitor,South,Customer N,9,476.54,5929.94
+1459,2025-11-18,Laptop Pro,West,Customer B,1,576.46,797.42
+1598,2025-11-18,Noise Cancelling Headphones,South,Customer B,4,1074.5,5948.32
+1048,2025-11-18,Noise Cancelling Headphones,South,Customer N,8,1090.52,12079.83
+1296,2025-11-19,Laptop Pro,North,Customer C,2,967.13,2679.55
+1547,2025-11-19,Office Chair,West,Customer G,9,438.08,5464.52
+1062,2025-11-19,Wireless Mouse,West,Customer O,4,150.67,835.7
+1173,2025-11-19,Noise Cancelling Headphones,North,Customer C,4,373.26,2071.31
+1035,2025-11-20,Desk Lamp,East,Customer H,2,746.22,2071.48
+1462,2025-11-23,Standing Desk,South,Customer N,4,1132.13,6288.52
+1297,2025-11-24,Laptop Pro,South,Customer D,1,1116.14,1550.67
+1328,2025-11-24,4K Monitor,North,Customer F,7,761.03,7404.73
+1335,2025-11-26,Wireless Mouse,South,Customer J,9,342.26,4283.68
+1212,2025-11-26,Office Chair,East,Customer J,3,563.27,2351.06
+1136,2025-11-29,Laptop Pro,West,Customer G,8,1185.82,13205.16
+1107,2025-11-29,Mechanical Keyboard,South,Customer K,4,961.08,5353.81
+1120,2025-11-30,Wireless Mouse,East,Customer B,5,525.18,3658.72
+1323,2025-11-30,Laptop Pro,East,Customer E,1,933.79,1301.69
+1400,2025-12-02,Laptop Pro,East,Customer B,7,860.15,8397.3
+1134,2025-12-04,Laptop Pro,East,Customer O,3,447.04,1871.3
+1242,2025-12-06,Webcam HD,West,Customer D,2,757.51,2114.96
+1361,2025-12-07,Office Chair,South,Customer G,7,212.84,2080.86
+1228,2025-12-15,Laptop Pro,East,Customer J,1,995.61,1391.19
+1473,2025-12-16,4K Monitor,North,Customer O,1,940.87,1315.33
+1092,2025-12-22,Laptop Pro,East,Customer J,2,698.98,1955.28
+1571,2025-12-23,Webcam HD,South,Customer F,5,1141.85,7989.14
+1437,2025-12-26,Wireless Mouse,South,Customer A,4,362.57,2030.39
+1162,2025-06-21,Laptop Pro,West,Customer B,9,1153.95,13478.68
+1439,2025-04-27,Wireless Mouse,South,Customer F,4,628.78,3193.66
+1410,2025-08-29,Laptop Pro,North,Customer E,2,32.41,86.85
+1372,2025-07-04,Wireless Mouse,East,Customer C,9,72.1,846.06
+1145,2024-08-18,Wireless Mouse,North,Customer G,7,61.21,485.98
+1026,2024-01-26,Laptop Pro,West,Customer B,9,143.01,1306.86
+1176,2025-05-04,4K Monitor,North,Customer D,6,83.31,638.39
+1536,2025-10-09,Laptop Pro,West,Customer E,4,580.13,3169.7
